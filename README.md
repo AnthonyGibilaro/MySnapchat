@@ -3,9 +3,6 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
   <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
-  <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
 </p>
 
 > my_snapchat est une application mobile qui permet d'envoyer des images à vos amis pour une certaine durée, après quoi elles seront supprimées. L'application a été développée en utilisant REACT-Native et est conçue pour être mobile-first.
