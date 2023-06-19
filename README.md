@@ -41,7 +41,7 @@ npm run start
 
 * Website: Anthony GIBILARO
 * GitHub: [@Github-GIBILARO-Anthony](https://github.com/Github-GIBILARO-Anthony)
-* LinkedIn: [@Anthony Gibilaro](https://linkedin.com/in/Anthony Gibilaro)
+* LinkedIn: [@Anthony Gibilaro](https://www.linkedin.com/in/anthony-gibilaro/)
 
 ## Show your support
 
