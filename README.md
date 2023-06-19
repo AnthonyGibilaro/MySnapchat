@@ -6,12 +6,6 @@
   <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/Github-GIBILARO-Anthony/My_Snapchat" />
-  </a>
 </p>
 
 > my_snapchat est une application mobile qui permet d'envoyer des images à vos amis pour une certaine durée, après quoi elles seront supprimées. L'application a été développée en utilisant REACT-Native et est conçue pour être mobile-first.
