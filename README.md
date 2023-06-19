@@ -1,43 +1,57 @@
-<h1 align="center">Welcome to My_Snapchat 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
-  <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
-</p>
+# My_Snapchat :camera_flash:
 
-> my_snapchat est une application mobile qui permet d'envoyer des images à vos amis pour une certaine durée, après quoi elles seront supprimées. L'application a été développée en utilisant REACT-Native et est conçue pour être mobile-first.
+## Table des Matières
 
-### 🏠 [Homepage](https://github.com/Github-GIBILARO-Anthony/My_Snapchat)
+- [Introduction](#introduction)
+- [Fonctionnalités](#fonctionnalités)
+- [Installation](#installation)
+- [Utilisation](#utilisation)
+- [API](#api)
+<!-- - [Contribution](#contribution) -->
+<!-- - [Licence](#licence) -->
 
-## Prerequisites
+## Introduction
 
-- npm >=5.5.0
-- node >=9.3.0
+My_Snapchat est une application mobile développée en utilisant React Native. L'application permet aux utilisateurs d'envoyer des images à leurs amis pour une durée spécifique, après quoi les images seront supprimées.
 
-## Install
+## Fonctionnalités
+
+- **Authentification des utilisateurs** : Les utilisateurs peuvent s'inscrire et se connecter en utilisant leur email et mot de passe. Une fois connecté, l'utilisateur est redirigé vers la page de sélection d'image.
+- **Partage d'images** : Les utilisateurs peuvent sélectionner une image à partir de la galerie de leur smartphone ou utiliser la caméra de l'appareil pour capturer une nouvelle image. Après avoir capturé ou sélectionné une image, une liste d'utilisateurs enregistrés apparaîtra. Les utilisateurs peuvent ensuite sélectionner un destinataire pour l'image et définir une durée d'affichage.
+- **Réception d'images** : Le nom de l'utilisateur qui a envoyé l'image sera affiché. En touchant le nom, l'image sera affichée pendant la durée définie par l'expéditeur. Après la durée d'affichage, l'image sera supprimée de tous les supports de stockage.
+- **Fonctionnalités Bonus** :
+  - Les utilisateurs peuvent ajouter une photo de profil.
+  - Les utilisateurs peuvent modifier leurs données (email, mot de passe, nom d'utilisateur).
+  - Les utilisateurs peuvent supprimer leur compte.
+
+## Installation
 
 ```sh
 npm install
 ```
 
-## Usage
+## Utilisation
 
 ```sh
 npm run start
 ```
 
-## Author
+## API
+
+L'application utilise l'API suivante : https://za3n0ne7q4.execute-api.eu-west-3.amazonaws.com/prod/
+## Auteur 
 
 👤 **Anthony GIBILARO**
 
-* Website: Anthony GIBILARO
+* SiteWeb: Anthony GIBILARO
 * GitHub: [@Github-GIBILARO-Anthony](https://github.com/Github-GIBILARO-Anthony)
 * LinkedIn: [@Anthony Gibilaro](https://www.linkedin.com/in/anthony-gibilaro/)
 
-## Show your support
 
-Give a ⭐️ if this project helped you!
+<!-- ## Contribution -->
 
-## 📝 License
+<!-- (Instructions de contribution ici) -->
 
-Copyright © 2023 [Anthony GIBILARO](https://github.com/Github-GIBILARO-Anthony).<br />
+<!-- ## Licence -->
+
+<!-- (Information sur la licence ici) -->
