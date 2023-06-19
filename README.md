@@ -39,7 +39,7 @@ npm run start
 
 ## API
 
-L'application utilise l'API suivante : https://za3n0ne7q4.execute-api.eu-west-3.amazonaws.com/prod/
+L'application utilise l'API suivante : https://mysnapchat.epidoc.eu
 
 ## Auteur 
 
