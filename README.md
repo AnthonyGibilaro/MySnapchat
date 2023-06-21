@@ -8,8 +8,6 @@
 - [Utilisation](#utilisation)
 - [API](#api)
 - [Auteur](#auteur)
-<!-- - [Contribution](#contribution) -->
-<!-- - [Licence](#licence) -->
 
 ## Introduction
 
@@ -45,15 +43,6 @@ L'application utilise l'API suivante : https://mysnapchat.epidoc.eu
 
 👤 **Anthony GIBILARO**
 
-* Site Web: Anthony GIBILARO
+* Site: [Portfolio ](https://www.a-gibilaro.com/)
 * GitHub: [@Github-GIBILARO-Anthony](https://github.com/Github-GIBILARO-Anthony)
 * LinkedIn: [@Anthony Gibilaro](https://www.linkedin.com/in/anthony-gibilaro/)
-
-
-<!-- ## Contribution -->
-
-<!-- (Instructions de contribution ici) -->
-
-<!-- ## Licence -->
-
-<!-- (Information sur la licence ici) -->
